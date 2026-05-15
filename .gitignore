@@ -1,0 +1,12 @@
+# dane — za duże dla gita (655 MB)
+*.csv.gz
+
+# środowisko Python
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# system
+.DS_Store
+Thumbs.db

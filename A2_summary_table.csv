@@ -1,0 +1,4 @@
+mutation,optimal_lag_tau_star_frames,optimal_lag_tau_star_min,max_RR,n_blocks
+WT,0,0.0,2.216,24
+AKT1_E17K,0,0.0,2.103,21
+PTEN_del,0,0.0,1.883,27
