@@ -1,0 +1,16 @@
+{
+  "comparison_question": "Are local neighbour-linked signal jumps associated with stronger near-future jumps in some groups than in others?",
+  "default_grouping_reason": "Conditions does not vary in this dataset, so Mutation is the most informative default grouping.",
+  "group_by": "Mutation",
+  "signal_col": "ERKKTR_ratio",
+  "spatial_radius": 60.0,
+  "future_window_frames": 3,
+  "n_blocks_analysed": 120,
+  "groups_found": [
+    "PIK3CA_H1047R",
+    "WT",
+    "PIK3CA_E545K",
+    "AKT1_E17K",
+    "PTEN_del"
+  ]
+}
